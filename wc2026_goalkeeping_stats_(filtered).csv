@@ -1,0 +1,59 @@
+Rk,Rk_FBref,Player,Pos,Squad,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,CS,CS%
+1,1,Yazeed Abulaila,GK,Jordan,3,3,270,3.0,8,2.67,16,8,50.0,0,0.0
+2,2,Mahmoud Abunada,GK,Qatar,3,3,270,3.0,10,3.33,22,12,54.5,0,0.0
+3,3,Alisson,GK,Brazil,5,5,450,5.0,4,0.8,18,14,77.8,2,40.0
+4,4,Benjamin Asare,GK,Ghana,3,2,225,2.5,2,0.8,10,8,80.0,2,100.0
+5,5,Lawrence Ati-Zigi,GK,Ghana,2,1,135,1.5,1,0.67,9,8,88.9,1,50.0
+6,6,Ahmed Basil,GK,Iraq,2,1,135,1.5,4,2.67,7,3,42.9,0,0.0
+7,7,Patrick Beach,GK,Australia,4,4,388,4.3,3,0.7,17,14,82.4,2,50.0
+8,8,Alireza Beiranvand,GK,IR Iran,3,3,270,3.0,3,1.0,18,15,83.3,1,33.3
+9,9,Oussama Benbot,GK,Algeria,1,1,90,1.0,3,3.0,3,0,0.0,0,0.0
+10,10,Yassine Bounou,GK,Morocco,6,6,570,6.3,6,0.95,20,14,70.0,2,33.3
+11,11,Ugurcan Cakir,GK,Turkiye,3,3,270,3.0,5,1.67,13,8,61.5,0,0.0
+12,12,Mouhib Chamakh,GK,Tunisia,1,1,90,1.0,5,5.0,6,1,16.7,0,0.0
+13,13,Diogo Costa,GK,Portugal,5,5,450,5.0,3,0.6,22,19,86.4,2,40.0
+14,14,Thibaut Courtois,GK,Belgium,6,6,550,6.1,6,0.98,20,14,70.0,1,16.7
+15,15,Maxime Crepeau,GK,Canada,5,5,450,5.0,6,1.2,12,6,50.0,2,40.0
+16,16,Max Crocombe,GK,New Zealand,3,3,270,3.0,10,3.33,21,11,52.4,0,0.0
+17,17,Aymen Dahmen,GK,Tunisia,2,2,180,2.0,7,3.5,12,5,41.7,0,0.0
+18,18,Mory Diaw,GK,Senegal,3,2,238,2.6,3,1.13,7,4,57.1,1,50.0
+19,19,Yahia Fofana,GK,Cote d'Ivoire,4,4,360,4.0,4,1.0,13,9,69.2,2,50.0
+20,20,Matt Freese,GK,USA,4,4,360,4.0,5,1.25,13,8,61.5,2,50.0
+21,21,Hernan Galindez,GK,Ecuador,4,4,360,4.0,4,1.0,13,9,69.2,1,25.0
+22,22,Orlando Gill,GK,Paraguay,5,5,480,5.3,6,1.13,29,23,79.3,2,40.0
+23,23,Angus Gunn,GK,Scotland,3,3,270,3.0,4,1.33,12,8,66.7,1,33.3
+24,24,Jalal Hassan,GK,Iraq,2,1,135,1.5,8,5.33,16,8,50.0,0,0.0
+25,25,Dean Henderson,GK,England,1,1,90,1.0,4,4.0,9,5,55.6,0,0.0
+26,26,Gregor Kobel,GK,Switzerland,6,6,600,6.7,6,0.9,26,20,76.9,2,33.3
+27,27,Matej Kovar,GK,Czechia,3,3,270,3.0,6,2.0,15,9,60.0,0,0.0
+28,29,Dominik Livakovic,GK,Croatia,4,4,360,4.0,7,1.75,17,10,58.8,1,25.0
+29,30,Mike Maignan,GK,France,8,8,720,8.0,10,1.25,22,12,54.5,4,50.0
+30,31,Emiliano Martinez,GK,Argentina,8,8,810,9.0,8,0.89,28,20,71.4,2,25.0
+31,32,Edouard Mendy,GK,Senegal,2,2,152,1.7,6,3.55,14,8,57.1,0,0.0
+32,33,Orlando Mosquera,GK,Panama,3,3,270,3.0,4,1.33,11,7,63.6,0,0.0
+33,34,Lionel Mpasi,GK,Congo DR,4,4,360,4.0,5,1.25,19,14,73.7,1,25.0
+34,35,Fernando Muslera,GK,Uruguay,3,3,225,2.5,4,1.6,8,4,50.0,0,0.0
+35,36,Abduvohid Nematov,GK,Uzbekistan,2,2,180,2.0,8,4.0,13,5,38.5,0,0.0
+36,37,Manuel Neuer,GK,Germany,4,4,390,4.3,5,1.15,10,5,50.0,0,0.0
+37,38,Kristoffer Nordfeldt,GK,Sweden,2,2,180,2.0,6,3.0,9,3,33.3,0,0.0
+38,39,Orjan Nyland,GK,Norway,5,5,480,5.3,7,1.31,22,15,68.2,0,0.0
+39,41,Mohammed Al-Owais,GK,Saudi Arabia,3,3,270,3.0,5,1.67,21,16,76.2,1,33.3
+40,42,Jordan Pickford,GK,England,7,7,660,7.3,8,1.09,23,15,65.2,2,28.6
+41,43,Johny Placide,GK,Haiti,3,3,270,3.0,8,2.67,19,11,57.9,0,0.0
+42,44,Raul Rangel,GK,Mexico,5,5,437,4.9,3,0.62,11,8,72.7,4,80.0
+43,46,Eloy Room,GK,Curacao,3,3,270,3.0,9,3.0,29,20,69.0,1,33.3
+44,48,Alexander Schlager,GK,Austria,4,4,360,4.0,9,2.25,22,13,59.1,0,0.0
+45,49,Egil Selvik,GK,Norway,1,1,90,1.0,4,4.0,9,5,55.6,0,0.0
+46,50,Kim Seung-gyu,GK,Korea Republic,3,3,270,3.0,3,1.0,12,9,75.0,0,0.0
+47,51,Mostafa Shobeir,GK,Egypt,5,5,480,5.3,7,1.31,19,12,63.2,0,0.0
+48,52,Unai Simon,GK,Spain,8,8,750,8.3,1,0.12,11,10,90.9,7,87.5
+49,53,Zion Suzuki,GK,Japan,4,4,360,4.0,5,1.25,17,12,70.6,1,25.0
+50,54,Matt Turner,GK,USA,1,1,90,1.0,3,3.0,3,0,0.0,0,0.0
+51,55,Camilo Vargas,GK,Colombia,5,5,480,5.3,1,0.19,7,6,85.7,4,80.0
+52,56,Nikola Vasilj,GK,Bosnia-Herzegovina,4,4,360,4.0,8,2.0,14,6,42.9,0,0.0
+53,57,Bart Verbruggen,GK,Netherlands,4,4,390,4.3,5,1.15,21,16,76.2,0,0.0
+54,58,Vozinha,GK,Cabo Verde,4,4,390,4.3,5,1.15,23,18,78.3,2,50.0
+55,59,Jacob Widell Zetterstrom,GK,Sweden,2,2,180,2.0,4,2.0,15,11,73.3,0,0.0
+56,60,Ronwen Williams,GK,South Africa,4,4,360,4.0,4,1.0,15,11,73.3,1,25.0
+57,61,Utkir Yusupov,GK,Uzbekistan,1,1,90,1.0,3,3.0,4,1,25.0,0,0.0
+58,62,Luca Zidane,GK,Algeria,3,3,270,3.0,6,2.0,14,8,57.1,0,0.0
