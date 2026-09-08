@@ -1,0 +1,41 @@
+﻿Sample_No,No,FIFA_Rank,Player,Abbr,Country,Confederation,Pos,Passes_Att,Passes_Cmp,Cmp_pct
+1,1,1,Rodri,ESP,Spain,UEFA,MF,799,747,93.49
+2,10,10,Granit Xhaka,SUI,Switzerland,UEFA,MF,470,427,90.85
+3,16,18,Gabriel Magalhaes,BRA,Brazil,CONMEBOL,DF,431,413,95.82
+4,26,30,Joshua Kimmich,GER,Germany,UEFA,DF,368,336,91.3
+5,34,39,Declan Rice,ENG,England,UEFA,MF,340,312,91.76
+6,40,47,Torbjorn Heggem,NOR,Norway,UEFA,DF,301,282,93.69
+7,43,49,Fabian Ruiz,ESP,Spain,UEFA,MF,297,266,89.56
+8,47,56,Gustavo Puerta,COL,Colombia,CONMEBOL,DF,290,264,91.03
+9,56,73,Florian Wirtz,GER,Germany,UEFA,MF,271,223,82.29
+10,57,75,Emiliano Martinez,ARG,Argentina,CONMEBOL,GK,268,195,72.76
+11,79,107,Nicolas Raskin,BEL,Belgium,UEFA,MF,230,197,85.65
+12,94,132,Camilo Vargas,COL,Colombia,CONMEBOL,GK,202,157,77.72
+13,109,159,Reece James,ENG,England,UEFA,DF,188,173,92.02
+14,111,163,David Moller Wolfe,NOR,Norway,UEFA,DF,186,162,87.1
+15,115,166,John Stones,ENG,England,UEFA,DF,184,178,96.74
+16,119,177,Ferdi Kadioglu,TUR,Türkiye,UEFA,DF,175,161,92.0
+17,138,213,Stjepan Radeljic,BIH,Bosnia and Herzegovina,UEFA,DF,153,137,89.54
+18,146,229,Alan Franco,ECU,Ecuador,CONMEBOL,MF,148,140,94.59
+19,153,254,Guillermo Varela,URU,Uruguay,CONMEBOL,DF,134,119,88.81
+20,176,301,Andres Cubas,PAR,Paraguay,CONMEBOL,MF,117,97,82.91
+21,182,309,Robin Hranac,CZE,Czechia,UEFA,DF,116,104,89.66
+22,196,356,Hernan Galindez,ECU,Ecuador,CONMEBOL,GK,105,70,66.67
+23,239,444,Ferran Torres,ESP,Spain,UEFA,FW,86,63,73.26
+24,246,457,Alexander Isak,SWE,Sweden,UEFA,FW,81,65,80.25
+25,248,462,Paul Wanner,AUT,Austria,UEFA,MF,80,68,85.0
+26,251,473,Nilson Angulo,ECU,Ecuador,CONMEBOL,FW,78,63,80.77
+27,262,504,Viktor Gyokeres,SWE,Sweden,UEFA,FW,70,48,68.57
+28,269,518,Miguel Almiron,PAR,Paraguay,CONMEBOL,MF,67,49,73.13
+29,300,598,Nico Williams,ESP,Spain,UEFA,FW,50,45,90.0
+30,308,616,David Doudera,CZE,Czechia,UEFA,DF,47,34,72.34
+31,319,644,Lukas Cerv,CZE,Czechia,UEFA,MF,42,36,85.71
+32,325,658,Nikola Vlasic,CRO,Croatia,UEFA,MF,40,33,82.5
+33,327,658,Miro Muheim,SUI,Switzerland,UEFA,DF,40,31,77.5
+34,332,666,Besfort Zeneli,SWE,Sweden,UEFA,MF,38,34,89.47
+35,346,707,Marco Friedl,AUT,Austria,UEFA,DF,31,30,96.77
+36,356,726,Michael Gregoritsch,AUT,Austria,UEFA,FW,29,20,68.97
+37,367,759,Jorgen Strand Larsen,NOR,Norway,UEFA,FW,24,18,75.0
+38,370,759,Martin Zubimendi,ESP,Spain,UEFA,MF,24,22,91.67
+39,372,768,Deiver Machado,COL,Colombia,CONMEBOL,DF,23,22,95.65
+40,375,779,Stepan Chaloupek,CZE,Czechia,UEFA,DF,22,15,68.18
