@@ -1,0 +1,3 @@
+Confederation,Sample_Size,Mean_Conversion_Ratio,Std_Dev,95%_CI_Lower,95%_CI_Upper,t_stat_CONMEBOL_vs_UEFA,p_value,Test_Decision
+CONMEBOL,20,0.0764,0.1599,0.0015,0.1512,-0.6425,0.5251,Fail to Reject Null Hypothesis (H0)
+UEFA,20,0.1192,0.2511,0.0016,0.2367,-0.6425,0.5251,Fail to Reject Null Hypothesis (H0)
