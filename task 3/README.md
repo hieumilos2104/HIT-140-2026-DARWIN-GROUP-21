@@ -32,11 +32,6 @@ assignment2/
 ├── README.md
 ├── task3_complete.py
 └── fbref_wc2026_player_misc_raw_manual.csv
-```
-
-Running the script creates the following files:
-
-```text
 fbref_wc2026_player_misc_cleaned.csv
 task3_eligible_players.csv
 task3_player_stratified_sample_80.csv
