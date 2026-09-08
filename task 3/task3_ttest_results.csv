@@ -1,0 +1,2 @@
+﻿Test,UEFA_mean,CONMEBOL_mean,Mean_difference_UEFA_minus_CONMEBOL,T_statistic,Degrees_of_freedom,P_value,Lower_95_CI_difference,Upper_95_CI_difference,Decision
+Welch two-sample t-test,12.35897435897436,20.96031746031746,-8.6013431013431,-1.3439287510113629,75.28010758357877,0.1830079490643052,-21.350314466869012,4.1476282641828135,Fail to reject the null hypothesis.
