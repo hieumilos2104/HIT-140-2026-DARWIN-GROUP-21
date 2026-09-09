@@ -1,0 +1,6 @@
+Step,Condition,Remaining,Removed,Reason
+1. Remove duplicates,drop_duplicates(),1039,0,Avoid counting a player twice
+2. Keep UEFA and CONMEBOL,Confederation != 'Other',483,556,Scope of the study
+3. Remove goalkeepers,Pos not contains 'GK',456,27,Goalkeepers rarely tackle
+4. Remove low playing time,90s >= 2.0,247,209,Small denominators distort the rate
+5. Remove missing values,"dropna(TklW, 90s)",247,0,Rate not computable

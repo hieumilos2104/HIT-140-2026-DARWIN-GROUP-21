@@ -1,0 +1,4 @@
+Confidence_level,t_critical,Margin_of_error,Lower_bound,Upper_bound
+0.9,1.6849,0.2196,0.8479,1.2872
+0.95,2.0227,0.2637,0.8038,1.3312
+0.99,2.7079,0.353,0.7145,1.4205
